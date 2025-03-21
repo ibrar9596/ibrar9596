@@ -36,7 +36,7 @@
 
 - 💬 Ask me about **React, Express, Node js, PHP, Andriod Studio App Development**
 
-- 📫 How to reach me **maazkhan.official@gmail.com**
+- 📫 How to reach me **ibrarafridyan01@gmail.com**
 
 - 📄 Know about my experiences [Coming](Coming)
 
